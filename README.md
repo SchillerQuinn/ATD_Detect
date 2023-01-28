@@ -1,2 +1,2 @@
 # ATD_Detect
-Detects Non-standard ATD (Analog To Digital or rectangle) controllers
+Detects non-standard ATD (Analog To Digital or rectangle) controllers
